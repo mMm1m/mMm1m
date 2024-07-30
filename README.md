@@ -7,7 +7,10 @@
 - 📄 View my experience: <a href="https://drive.google.com/drive/folders/1qjTAbsEOntAbwk59bmmvwzCcRR62soxn">MyCV</a>  </br>
 - ⚡ Fun fact: a physicist with a focus on programming  </br>
 <h3>Languages and Tools</h3>
-<svg>dotnet.svg</svg>
+.picture {
+  background-image:
+    url(dotnet.svg);
+}
 <!--
 **mMm1m/mMm1m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
