@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on: JIRA Connector, WB Tech tasks, Digital and Software design labs
 - 🌱 I’m currently learning: Java, Spring Framework, Golang, Verilog and computer architecture, discrete maths and algorithms
 - 📫 How to reach me: golchanskiy.m.d@gmail.com
-- 📄 View my experience: </a href = "https://drive.google.com/drive/folders/1qjTAbsEOntAbwk59bmmvwzCcRR62soxn">MyCV</a> 
+- 📄 View my experience: </a href="https://drive.google.com/drive/folders/1qjTAbsEOntAbwk59bmmvwzCcRR62soxn">MyCV</a> 
 - ⚡ Fun fact: a physicist with a focus on programming
 <!--
 **mMm1m/mMm1m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
