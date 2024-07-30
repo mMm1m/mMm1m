@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋, I'm <a href="https://t.me/MaXimMaXiM209" target="_blank">Maxim Golchanskiy</a> 
 </h1>
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mMm1m&label=Profile%20views&color=0e75b6&style=flat" alt="mMm1m" /> </p>
 <h3 align="center">ITMO Phystech student, Java and Golang backend developer🇷🇺</h3>
 - 🔭 I’m currently working on: JIRA Connector, WB Tech tasks, Digital and Software design labs  </br>
 - 🌱 I’m currently learning: Java, Spring Framework, Golang, Verilog and computer architecture, discrete maths and algorithms  </br>
@@ -7,16 +9,44 @@
 - 📄 View my experience: <a href="https://drive.google.com/drive/folders/1qjTAbsEOntAbwk59bmmvwzCcRR62soxn">MyCV</a>  </br>
 - ⚡ Fun fact: a physicist with a focus on programming  </br>
 <h3>Languages and Tools</h3>
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>.ENV</title><path d="M24 0v24H0V0h24ZM10.933 15.89H6.84v5.52h4.198v-.93H7.955v-1.503h2.77v-.93h-2.77v-1.224h2.978v-.934Zm2.146 0h-1.084v5.52h1.035v-3.6l2.226 3.6h1.118v-5.52h-1.036v3.686l-2.259-3.687Zm5.117 0h-1.208l1.973 5.52h1.19l1.976-5.52h-1.182l-1.352 4.085-1.397-4.086ZM5.4 19.68H3.72v1.68H5.4v-1.68Z"/></svg>
-<svg width="20">
-  <rect fill="#fc0"
-    width="20"
-    height="20"/>
-  <line stroke="black"
-    x1="0" y1="0"
-    x2="20" y2="20"/>
-</svg>
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> </a>
+  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" alt="apache" width="50" height="50"/> </a>
+  <a href="https://ru.wikipedia.org/wiki/Bash" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/> </a>
+  <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
+  <a href="https://cmake.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" alt="cmake" width="50" height="50"/> </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/> </a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="golang" width="50" height="50"/> </a>
+  <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" alt="gradle" width="50" height="50"/> </a>
+  <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" alt="hibernate" width="50" height="50"/> </a>
+  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg" alt="maven" width="50" height="50"/> </a>
+   <a href="https://help.ubuntu.ru/wiki/nano" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nano/nano-original-wordmark.svg"" alt="gnu nano" width="50" height="50"/> </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="50" height="50"/> </a>
+  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="50" height="50"/> </a>
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"  alt="swagger" width="50" height="50"/> </a>
+  </p>
 
+<h3>🏆 Github Profile Trophy</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mMm1m)](https://github.com/mMm1m/github-profile-trophy)
+
+<h3>🔥 Streak stats</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mMm1m)](https://git.io/streak-stats)
+
+<h3>👑 Top languages</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mMm1m&layout=compact)](https://github.com/mMm1m/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mMm1m)](https://github.com/mMm1m/github-readme-stats)
 
 <!--
 **mMm1m/mMm1m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
