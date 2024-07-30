@@ -32,6 +32,7 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="50" height="50"/> </a>
   <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="50" height="50"/> </a>
   <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"  alt="swagger" width="50" height="50"/> </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"  alt="redis" width="50" height="50"/> </a>
   </p>
 
 <h3>🏆 Github Profile Trophy</h3>
