@@ -2,12 +2,13 @@
 </h1>
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mMm1m&label=Profile%20views&color=0e75b6&style=flat" alt="mMm1m" /> </p>
-<h3 align="center">ITMO Phystech student, Java and Golang backend developer🇷🇺</h3>
-- 🔭 I’m currently working on: JIRA Connector, WB Tech tasks, Digital and Software design labs  </br>
-- 🌱 I’m currently learning: Java, Spring Framework, Golang, Verilog and computer architecture, discrete maths and algorithms  </br>
+<h3 align="center">A second-year student of the Faculty of Physics at ITMO University, Java and Golang backend developer🇷🇺</h3>
+- 🔭 I’m currently working on: Improvement of access to physical formulas on "Platform".  </br>
+- 🌱 I’m currently learning: C++ , algorithms and data structures, maths, architectural patterns and Vim editor.  </br>
 - 📫 How to reach me: golchanskiy.m.d@gmail.com  </br>
 - 📄 View my experience: <a href="https://drive.google.com/drive/folders/1qjTAbsEOntAbwk59bmmvwzCcRR62soxn">MyCV</a>  </br>
 - ⚡ Fun fact: a physicist with a focus on programming  </br>
+- 🙋‍♂️ About me: I am currently studying programming independently by solving thematic tasks from universities like ITMO and MIPT available in open access. I also enhance my skills through educational courses from major companies, both online, with mentor-led guidance, and offline, by finding courses in GitHub repositories and completing them independently, including writing tests when testing systems are unavailable. I am doing this in parallel with my second-year studies at the Physics Department of ITMO University, but I still focus on software development.  </br>
 <h3>Languages and Tools</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
