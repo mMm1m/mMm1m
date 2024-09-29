@@ -2,9 +2,9 @@
 </h1>
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mMm1m&label=Profile%20views&color=0e75b6&style=flat" alt="mMm1m" /> </p>
-<h3 align="center">A second-year student of the Faculty of Physics at ITMO University, Java and Golang backend developer🇷🇺</h3>
-- 🔭 I’m currently working on: Improvement of access to physical formulas on "Platform".  </br>
-- 🌱 I’m currently learning: C++ , algorithms and data structures, maths, architectural patterns and Vim editor.  </br>
+<h3 align="center">A second-year student of the Faculty of Physics at ITMO University, Java, Kotlin and Golang backend developer🇷🇺</h3>
+- 🔭 I’m currently working on: Improvement of access to physical formulas on "Platform", implement software for portable MRI.  </br>
+- 🌱 I’m currently learning: C++ , Kotlin,  algorithms and data structures, maths, and Vim editor.  </br>
 - 📫 How to reach me: golchanskiy.m.d@gmail.com  </br>
 - 📄 View my experience: <a href="https://drive.google.com/drive/folders/1qjTAbsEOntAbwk59bmmvwzCcRR62soxn">MyCV</a>  </br>
 - ⚡ Fun fact: a physicist with a focus on programming  </br>
